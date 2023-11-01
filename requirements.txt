@@ -2,3 +2,5 @@ dvc
 dvc[grive]
 scikit-learn
 pandas
+pytest
+tox
