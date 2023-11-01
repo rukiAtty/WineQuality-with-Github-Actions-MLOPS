@@ -4,3 +4,7 @@ scikit-learn
 pandas
 pytest
 tox
+seaborn
+matplotlib
+numpy
+plotly
